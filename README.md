@@ -6,7 +6,7 @@ Program I wrote to control some full RGB LEDs to act like normal Christmas light
 
   IM HERE
 
-Also has a random flicker/strobe to add extra creepiness. Helped me win an office Halloween party so there's that. 
+Also has a random flicker/strobe to add extra creepiness. Helped me win an office Halloween party so there's that. More screen accurate colors than other examples available. 
 
 Dependencies
 
